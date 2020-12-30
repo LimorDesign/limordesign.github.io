@@ -16,7 +16,7 @@
   --purple: #6f42c1;
   --pink: #e83e8c;
   --red: #dc3545;
-  --orange: #f4623a;
+  --orange: #c5a4f6; /*f4623a*/
   --yellow: #ffc107;
   --green: #28a745;
   --teal: #20c997;
@@ -2398,7 +2398,7 @@ textarea.form-control {
   display: inline-block;
   font-weight: 400;
   color: #212529;
-  text-align: left;
+  text-align: center;
   vertical-align: middle;
   -webkit-user-select: none;
      -moz-user-select: none;
