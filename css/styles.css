@@ -2397,8 +2397,8 @@ textarea.form-control {
 .btn {
   display: inline-block;
   font-weight: 400;
-  color: #c5a4f6; /*212529*/
-  text-align: center;
+  color: #212529;
+  text-align: left;
   vertical-align: middle;
   -webkit-user-select: none;
      -moz-user-select: none;
