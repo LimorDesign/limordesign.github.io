@@ -9775,7 +9775,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #c5a6b3 !important;
+  color: #676f7d !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10031,7 +10031,7 @@ hr.light {
   color: #f4623a;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #f4623a !important;
+  color: #676f7d !important;
 }
 @media (min-width: 992px) {
   #mainNav {
