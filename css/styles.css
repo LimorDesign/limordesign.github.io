@@ -10143,3 +10143,15 @@ header.masthead h1 {
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
 }
+
+}
+/*#Main .svg:hover {
+    fill: #ffff;
+}
+.svg {
+  width: 50px;
+  height: 50px;*/
+}
+.svg:hover {
+  fill: #ffff;
+}
