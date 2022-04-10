@@ -10158,7 +10158,11 @@ header.masthead h1 {
     font-size: 1rem;
     display: flex;
 	color: rgba(255, 255, 255, 0.5)
-	text-align: left;
+    flex: 0 1 auto;
+    align-items: flex-start;
+    justify-content: flex-start;
+    align-self: center;
+    display:flex;
 }
 	#bereich1 p:nth-child(1) { background-color: #a7b2c5; flex: 1;}
 	#bereich1 p:nth-child(2) { background-color: #a7b2c5; flex: 4; }
