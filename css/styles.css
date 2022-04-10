@@ -10155,9 +10155,9 @@ header.masthead h1 {
   fill: #ffff;
 }
 #bereich1 {
-    font-size: 1.5rem;
+    font-size: 1rem;
     display: flex;
 }
-	#bereich1 p:nth-child(1) { background-color: red; flex: 1;}
+/*	#bereich1 p:nth-child(1) { background-color: red; flex: 1;}
 	#bereich1 p:nth-child(2) { background-color: orange; flex: 4; }
-	#bereich1 p:nth-child(3) { background-color: limegreen; flex: 2; }
+	#bereich1 p:nth-child(3) { background-color: limegreen; flex: 2; }*/
