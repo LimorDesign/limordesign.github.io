@@ -10154,14 +10154,3 @@ header.masthead h1 {
 .linkedin:hover {
   fill: #ffff;
 }
-.flex-box {
-    display: flex;
-    height: 300px;   
-    background: gray;
-}
-
-.flex-item {
-    flex: 1;
-    border-right: 2px solid #000;
-    background: green;
-}
