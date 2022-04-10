@@ -10162,7 +10162,7 @@ header.masthead h1 {
 .bereich1-body {
 	  text-align: left;
 	  width: 100%;
-	  color: rgba(255, 255, 255, 0.75);
+	  color: rgba(255, 255, 255, 0.5);
 }
 	#bereich1 p:nth-child(1) { background-color: #a7b2c5; flex: 1;}
 	#bereich1 p:nth-child(2) { background-color: #a7b2c5; flex: 2; }
