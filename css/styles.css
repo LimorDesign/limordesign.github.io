@@ -10154,10 +10154,10 @@ header.masthead h1 {
 .linkedin:hover {
   fill: #ffff;
 }
-    #bereich1 {
-      border: 2px solid red;
-      font-size: 5em;
-    }
+#bereich1 {
+    font-size: 5em;
+    display: flex;
+}
 	#bereich1 p:nth-child(1) { background-color: red; flex: 1;}
 	#bereich1 p:nth-child(2) { background-color: orange; flex: 4; }
 	#bereich1 p:nth-child(3) { background-color: limegreen; flex: 2; }
