@@ -10157,7 +10157,6 @@ header.masthead h1 {
 #bereich1 {
     font-size: 1rem;
     display: flex;
-    flex-direction: column;
     align-items: left;
 }
 .bereich1-body {
