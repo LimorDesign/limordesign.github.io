@@ -10175,4 +10175,4 @@ header.masthead h1 {
 }
 	#bereich1 p:nth-child(1) { background-color: #a7b2c5; flex: 1;}
 	#bereich1 p:nth-child(2) { background-color: #a7b2c5; flex: 2; }
-	#bereich2 p:nth-child(3) { background-color: #a7b2c5; flex: 4; }
+	#bereich1 p:nth-child(3) { background-color: #a7b2c5; flex: 4; }
